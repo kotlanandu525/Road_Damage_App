@@ -1,1 +1,5 @@
-{"images": 0}
+{
+    "crack": 0,
+    "manhole": 1,
+    "pothole": 2
+}
